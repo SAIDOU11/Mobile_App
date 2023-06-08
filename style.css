@@ -50,9 +50,7 @@ button:hover {
 }
 
 ul {
-  font-size: 25px;
   color: black;
-
   list-style: none;
   display: flex;
   flex-wrap: wrap;
