@@ -3,7 +3,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Rubik", sans-serif;
-  background-color: #eef0f4;
+
+  background-color: #c4b074;
   color: #432000;
   user-select: none;
 }
@@ -40,13 +41,14 @@ button {
   padding: 10px;
   margin: 10px auto;
   color: #fdfdfd;
-  background-color: #ac485a;
+  background-color: #5e210f;
   width: 50%;
 }
 
 button:hover {
   cursor: pointer;
-  background-color: #760b1f;
+  color: #e8cb4b;
+  background-color: #291012;
 }
 
 ul {
@@ -67,11 +69,11 @@ ul li {
   font-size: 20px;
   margin: 10px;
   padding: 10px 15px;
-  background-color: #fffdf8;
+  background-color: #e8cb4b;
   box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
 }
 
 ul li:hover {
   cursor: pointer;
-  background-color: #ffecc7;
+  background-color: #a97801;
 }
